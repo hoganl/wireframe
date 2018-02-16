@@ -1,15 +1,6 @@
-* {
-    font-family: Helvetica, sans-serif;
-}
-
-header, footer {
-    background-color: #333;
+/* 
+header {
     height: 100px;
-}
-
-nav {
-    width: 960px;
-    margin: 0px auto;
 }
 
 header img {
@@ -18,7 +9,16 @@ header img {
     margin-right: 75px;
 }
 
-nav li {
+header h1 {
+    font: 
+}
+
+nav {
+    width: 960px;
+    margin: 0px auto;
+}
+
+header li {
     display: inline-block;
     margin-top: 40px;
     margin-right: 75px;
@@ -37,3 +37,8 @@ main {
 main li {
     display: inline-block;
 }
+
+header {
+    background-color: #333;
+    height: 200px;
+} */
